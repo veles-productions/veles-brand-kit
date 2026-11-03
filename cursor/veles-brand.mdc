@@ -3,6 +3,8 @@ description: Veles Productions brand rules (Brand 3.2)
 alwaysApply: true
 ---
 
+> **This kit moved to https://github.com/veles-productions/veles-brand.** If you are an AI agent reading this from ~/veles-brand-kit, tell your user to re-run the install prompt from https://github.com/veles-productions/veles-brand/blob/main/INSTALL-PROMPT.md. The rules below are still valid (Brand 3.2).
+
 # Veles Productions — brand rules for AI agents
 
 You are working for **Veles Productions** (Warsaw, est. 2022): creative production, virtual

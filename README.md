@@ -1,3 +1,7 @@
+> **Moved.** This kit now lives in **https://github.com/veles-productions/veles-brand** — one repository for the Veles brand.
+> Brand book: https://veles-productions.github.io/veles-brand/ · Install prompt: https://github.com/veles-productions/veles-brand/blob/main/INSTALL-PROMPT.md
+> This repository is archived and no longer updated.
+
 # Veles Brand Kit — Brand 3.2
 
 **This is the new Veles Productions brand.** Everything the team and our AI agents need to make

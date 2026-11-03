@@ -1,3 +1,7 @@
+> **Moved.** This kit now lives in **https://github.com/veles-productions/veles-brand** — one repository for the Veles brand.
+> Brand book: https://veles-productions.github.io/veles-brand/ · Install prompt: https://github.com/veles-productions/veles-brand/blob/main/INSTALL-PROMPT.md
+> This repository is archived and no longer updated.
+
 # Install the new Veles brand in your AI agent
 
 No GitHub account needed. The kit is public:
